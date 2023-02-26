@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to right, #ff9393, #ffdb99, #ffff89, #83ff83, aqua,#4da1ff,violet);
+    margin: 50px auto;
+}
+.text-input {
+
+}
+.room {
+    display: flex;
+    width: 600px;
+    margin: 50px auto;
+}
+ul {
+    width: 600px;
+    margin: 0 auto;
+}
